@@ -13,3 +13,33 @@ baseurl: ""      # 这个我们不用填写
 # sidebar: true                           # 是否开启侧边栏.
 # sidebar-about-description: "说点装逼的话。。。"
 # sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+
+# SNS settings
+RSS: false
+weibo_username:     username
+zhihu_username:     username
+github_username:    liehangtech
+facebook_username:  username
+jianshu_username:	jianshu_id
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: 83e259f69b37d02a4633a2b7d960139c
+
+# Google Analytics
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto
+
+# 好友？友情链接？
+friends: [
+    {
+        title: "MEAN WELL(CN)",
+        href: "http://www.meanwell.com.cn"
+    },{
+        title: "MEAN WELL Switch power supply",
+        href: "https://www.meanwell.com"
+    },{
+        title: "列行科技",
+        href: "https://liehang.xyz"
+    }
+]
