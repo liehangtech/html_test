@@ -1,3 +1,9 @@
 theme: jekyll-theme-dinky
 title: "上海列行科技有限公司"
-email: wjf@liehang.xyz
+SEOTitle: "上海列行科技有限公司" #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.png  	#显示在首页的背景图片
+email: wjf@liehang.xyz	
+description: "列行科技网站"  			 #网站介绍
+keyword: "列行, 上海列行, 列行科技, 电源" #关键词
+url: "https://liehang.xyz"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
